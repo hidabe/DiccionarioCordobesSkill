@@ -1,0 +1,49 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "diccionario cordobés",
+      "types": [
+
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "PegoIntent",
+          "slots": [
+            {
+              "name": "Query",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "samples": [
+            "qué significa {Query}",
+            "que significa {Query}",
+            "qué es un {Query}",
+            "que es un {Query}",
+            "qué es una {Query}",
+            "que es una {Query}",
+            "qué quiere decir {Query}",
+            "que quiere decir {Query}"
+          ]
+        }
+      ]
+    }
+  }
+}
