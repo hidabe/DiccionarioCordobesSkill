@@ -34,15 +34,10 @@
           ],
           "samples": [
             "qué significa {Query}",
-            "que significa {Query}",
             "qué es un {Query}",
-            "que es un {Query}",
             "qué es una {Query}",
-            "que es una {Query}",
             "qué es {Query}",
-            "que es {Query}",
-            "qué quiere decir {Query}",
-            "que quiere decir {Query}"
+            "qué quiere decir {Query}"
           ]
         }
       ]

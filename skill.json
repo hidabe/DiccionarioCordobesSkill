@@ -5,8 +5,8 @@
         "es-ES": {
           "summary": "Palabras cordobesas",
           "examplePhrases": [
-            "Alexa, pregunta a diccionario cordobés qué significa pego",
-            "Alexa, pregunta a diccionario cordobés que es un pego"
+            "Alexa, abre diccionario cordobés",
+            "Alexa, abre diccionario cordobés y qué es un pego"
           ],
           "name": "PalabrasCordoba",
           "description": "Qué significa en Cordobés"

@@ -40,7 +40,6 @@ const PegoIntentHandler = {
       { Query: 'Bichear', Result: 'Voy a mirar a ver si hay algo que me pueda interesar'},
       { Query: 'Eclisáo', Result: 'Que tienes la mente en otro sitio'},
       { Query: 'Curiana', Result: 'Cucaracha'},
-      { Query: 'Pizco', Result: 'Un trozo muy pequeño'},
       { Query: 'Farfollas', Result: 'Persona que es muy descuidada'},
       { Query: 'Zarcillos', Result: 'Pendientes'},
       { Query: 'Trabajoso', Result: 'Persona muy rebelde en la convivencia'},
@@ -74,7 +73,6 @@ const PegoIntentHandler = {
       { Query: 'Galipuche', Result: 'Bebida aguada'},
       { Query: 'Guindar', Result: 'Mirar, ver'},
       { Query: 'Ruilla', Result: 'Trapo húmedo que sirve para limpiar'},
-      { Query: 'Perol', Result: 'Salir al campo y reunirse con amigos o familia donde se hace un arroz'},
       { Query: 'Remear', Result: 'Hacer burla a alguien'},
       { Query: 'Zangarrea', Result: 'Algo que se mueve mucho'},
       { Query: 'Saquito', Result: 'Jersey'}
